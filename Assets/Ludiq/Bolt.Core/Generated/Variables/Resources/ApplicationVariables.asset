@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Name: ApplicationVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"clickcube","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"maxpoint","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"countto02","value":{"$content":0.2,"$type":"System.Single"},"$version":"A"},{"name":"euler90","value":{"$content":90,"$type":"System.Int32"},"$version":"A"},{"name":"001save","value":{"$content":0,"$type":"UnityEngine.GameObject"},"$version":"A"},{"name":"number","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"clickcube","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"maxpoint","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"countto02","value":{"$content":0.2,"$type":"System.Single"},"$version":"A"},{"name":"euler90","value":{"$content":90,"$type":"System.Int32"},"$version":"A"},{"name":"001save","value":{"$content":0,"$type":"UnityEngine.GameObject"},"$version":"A"},{"name":"number","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"isdown","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"isup","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1442026740862752, guid: e0f57e3212211314fa40aad55c412ccf, type: 2}
