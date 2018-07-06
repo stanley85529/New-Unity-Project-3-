@@ -1,6 +1,6 @@
-Android
+WindowsStandalone
 PlayerPath?
-C:/Users/stanl/OneDrive/文件/New Unity Project (3)/apk/tte.apk
+C:/Users/stanl/Desktop/test/test.exe
 SceneListBegin?
 Assets/Scenes/class1.unity
 SceneListEnd?
