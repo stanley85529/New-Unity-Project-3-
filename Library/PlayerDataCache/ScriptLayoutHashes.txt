@@ -1,6 +1,6 @@
-WindowsStandalone
+Android
 PlayerPath?
-C:/Users/stanl/Desktop/test/test.exe
+C:/Users/stanl/Desktop/test/tte.apk
 SceneListBegin?
 Assets/Scenes/class1.unity
 SceneListEnd?
